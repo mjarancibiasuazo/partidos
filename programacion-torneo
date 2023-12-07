@@ -1,6 +1,5 @@
 {
-    "data":
-   [
+  "data": [
     {
       "partido_id": 1,
       "nombre_torneo": "Torneo la Pintana 2023",
@@ -29,7 +28,7 @@
     },
     {
       "partido_id": 3,
-      "nombre_torneo": "Torneo la Pintana 20223",
+      "nombre_torneo": "Torneo la Pintana 2023",
       "nombre_equipo_1": "Los Gringos",
       "nombre_equipo_2": "Footman",
       "dia": "20",
@@ -42,7 +41,7 @@
     },
     {
       "partido_id": 4,
-      "nombre_torneo": "Torneo la Pintana 20223",
+      "nombre_torneo": "Torneo la Pintana 2023",
       "nombre_equipo_1": "X-Futbol",
       "nombre_equipo_2": "Los Tigres",
       "dia": "25",
@@ -55,9 +54,9 @@
     },
     {
       "partido_id": 5,
-      "nombre_torneo": "Torneo la Pintana 20223",
+      "nombre_torneo": "Torneo la Pintana 2023",
       "nombre_equipo_1": "Los keithston",
-      "nombre_equipo_2": "Los futboleros ",
+      "nombre_equipo_2": "Los futboleros",
       "dia": "25",
       "mes": "Enero",
       "año": "2024",
@@ -66,6 +65,7 @@
       "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-11.png",
       "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-12.png"
     }
-   ]
-  }
+  ]
+}
+
   

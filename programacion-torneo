@@ -12,7 +12,7 @@
     "hora": "15:00",
     "cancha": "El Laurel #245",
     "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-2.png",
-    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-5.png"
+    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-5.png"
   },
   {
     "partido_id": 2,
@@ -25,7 +25,7 @@
     "hora": "14:30",
     "cancha": "El Laurel #245",
     "imagen_equipo_1: ""https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-1.png",
-    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-9.png"
+    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-9.png"
   },
   {
     "partido_id": 3,
@@ -37,8 +37,8 @@
     "año": "2024",
     "hora": "12:00",
     "cancha": "El Laurel #245",
-    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-8.png",
-    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-3.png"
+    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-8.png",
+    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-3.png"
   },
   {
     "partido_id": 4,
@@ -50,8 +50,8 @@
     "año": "2024",
     "hora": "10:00",
     "cancha": "El Laurel #245",
-    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-10.png",
-    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-12.png"
+    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-10.png",
+    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-12.png"
   },
   {
     "partido_id": 5,
@@ -63,8 +63,8 @@
     "año": "2024",
     "hora": "10:00",
     "cancha": "El Laurel #245",
-    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-11.png",
-    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/blob/main/equipo-12.png"
+    "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-11.png",
+    "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-12.png"
   }
  ]
 }

@@ -29,7 +29,7 @@
 {
 "partido_id": 3,
 "nombre_torneo": "Torneo la Pintana 2023",
-"nombre_equipo_1": "Los Gringos",
+"nombre_equipo_1": "Gringos",
 "nombre_equipo_2": "Footman",
 "dia": "20",
 "mes": "Enero",
@@ -43,7 +43,7 @@
 "partido_id": 4,
 "nombre_torneo": "Torneo la Pintana 2023",
 "nombre_equipo_1": "X-Futbol",
-"nombre_equipo_2": "Los Tigres",
+"nombre_equipo_2": "Tigres",
 "dia": "25",
 "mes": "Enero",
 "año": "2024",
@@ -55,8 +55,8 @@
 {
 "partido_id": 5,
 "nombre_torneo": "Torneo la Pintana 2023",
-"nombre_equipo_1": "Los keithston",
-"nombre_equipo_2": "Los futboleros",
+"nombre_equipo_1": "keithston",
+"nombre_equipo_2": "Foot",
 "dia": "25",
 "mes": "Enero",
 "año": "2024",
